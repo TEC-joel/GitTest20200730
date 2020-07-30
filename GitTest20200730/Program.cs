@@ -10,6 +10,7 @@ namespace GitTest20200730
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hell world");
         }
     }
 }
