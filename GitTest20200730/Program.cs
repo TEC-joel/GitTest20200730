@@ -10,7 +10,9 @@ namespace GitTest20200730
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hell world");
+            Console.BackgroundColor = ConsoleColor.DarkRed;
+
+            Console.WriteLine("hello world");
         }
     }
 }
